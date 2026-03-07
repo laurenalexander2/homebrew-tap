@@ -3,8 +3,8 @@ class ClaudeSwarm < Formula
 
   desc "CLI for parallel Claude Code sessions to coordinate via SQLite"
   homepage "https://github.com/laurenalexander2/claude-swarm"
-  url "https://files.pythonhosted.org/packages/ae/8b/1e317c498408b282a64f4acc2337e581fe2571940f0af8f842a7c5696587/claude_swarm-0.3.0.tar.gz"
-  sha256 "02e0a7579a6781668f752e9db8ffd4f46b4142a023fd6af6df4daedf4e5f4a31"
+  url "https://files.pythonhosted.org/packages/0d/43/01047b89b4ae5f75556358d5dc98cd437117f32d2e11c617c8307cac06fa/claude_swarm-0.3.1.tar.gz"
+  sha256 "7e749029159764a46d379d4da9e46b92152233d7ee99f46853320ca30b858afc"
   license "MIT"
 
   depends_on "python@3.12"
